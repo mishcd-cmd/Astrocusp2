@@ -1,7 +1,7 @@
 {
-  "name": "astrocusp-web",
+  "name": "astrocusp",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,14 +12,12 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.58.0",
     "localforage": "^1.10.0",
-    "luxon": "^3.5.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "suncalc": "^1.9.0"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
-    "@types/node": "^22.10.1",
+    "@types/node": "^24.6.1",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.3",
